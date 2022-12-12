@@ -1,3 +1,5 @@
+//Very simple code to get the popup overlays and close them. I took this code from W3Schools.
+
 $ = function(id) {
   return document.getElementById(id);
 }
